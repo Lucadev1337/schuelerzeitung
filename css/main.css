@@ -2030,7 +2030,7 @@ span.type {
 /*==========Bottom=========*/
 .bottom {
   margin: 50px 0px 20px 0px;
-  border-top: 10px solid #111;
+  border-top: 10px groove #111111;
   padding: 50px 0px 0px 0px;
   position: relative;
   min-height: 100px;
