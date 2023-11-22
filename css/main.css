@@ -2260,8 +2260,8 @@ span.type {
 /*==========Page Category=========*/
 .sitemap {
   text-align: center;
-  border-bottom: 1px solid #111;
-  padding: 0px 0px 10px 0px;
+  border-bottom: 0px solid #111;
+  padding: 0px 0px 5px 0px;
   text-align: center;
   text-transform: uppercase;
   font-family: "Oswald", serif; }
@@ -2278,10 +2278,10 @@ span.type {
       font-size: 20px; }
       @media screen and (max-width: 991px) {
         .sitemap a i {
-          font-size: 12px; } }
+          font-size: 20px; } }
     @media screen and (max-width: 991px) {
       .sitemap a {
-        font-size: 12px; } }
+        font-size: 20px; } }
   .sitemap span {
     margin: 0px 15px;
     display: inline-block;
@@ -2289,15 +2289,15 @@ span.type {
     float: left; }
     @media screen and (max-width: 991px) {
       .sitemap span {
-        font-size: 12px;
-        margin: 0px 6px; } }
+        font-size: 20px;
+        margin: 0px 10px; } }
 
 .category-item {
   padding: 40px 0px;
   border-bottom: 1px dotted #111; }
   @media screen and (max-width: 991px) {
     .category-item {
-      padding: 15px 0px;
+      padding: 20px 0px;
       border: none; } }
   .category-item:last-child {
     border: none; }
@@ -3841,3 +3841,4 @@ blockquote {
       text-align: center;
       color: #555;
       margin: -2px 0px 0px 0px; }
+
