@@ -24,6 +24,10 @@ h6, .h6 {
     }
     }
 
+    @media screen and (min-width: 767px) {
+      .menuhider {
+        visibility: hidden; } }  
+
 /*==========Setting=========*/
 body {
   font-family: "Lora", serif;
@@ -643,6 +647,11 @@ span.type {
     .logo-show {
       padding: 10px 0px; } }
 
+      @media screen and (min-width: 767px) {
+        .search-icon-mobile {
+          visibility: hidden; } }
+
+          
 .menu-show {
   text-align: center;
   visibility: visible;
@@ -664,7 +673,7 @@ span.type {
 @media screen and (max-width: 991px) {
   .mobile-bar {
     height: 40px;
-    margin: 0px 10px;
+    margin: 0px 20px;
     position: relative; }
     .mobile-bar.show-search-mobile .search-box-mobile {
       z-index: 2;
@@ -690,20 +699,20 @@ span.type {
     font-family: "Oswald", serif;
     text-transform: uppercase; }
     .menu-icon-mobile i {
-      font-size: 20px; }
+      font-size: 30px; }
     .menu-icon-mobile span {
       font-family: "Oswald", serif;
       text-transform: uppercase;
       font-weight: normal;
       letter-spacing: 2px;
       font-weight: 400;
-      font-size: 16px; }
+      font-size: 26px; }
   .search-icon-mobile {
-    height: 40px;
-    width: 40px;
+    height: 100px;
+    width: 100px;
     position: absolute;
     top: 0px;
-    right: 0px;
+    right: 20px;
     line-height: 40px;
     font-size: 16px;
     color: #111;
@@ -3832,4 +3841,3 @@ blockquote {
       text-align: center;
       color: #555;
       margin: -2px 0px 0px 0px; }
-
