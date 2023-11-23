@@ -6,7 +6,7 @@
 
 <h2>🚀 Check it out</h2>
 
-[www.schuelerzeitung.ge](www.schuelerzeitung.ge)
+[www.schuelerzeitung.ge](https://schuelerzeitung.ge)
 
 <h2>Project Screenshots:</h2>
 
