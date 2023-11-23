@@ -881,16 +881,11 @@ span.type {
     color: #ca2026; }
 
 .post-thumbnail img {
-  -webkit-filter: grayscale(70%);
-  filter: grayscale(70%);
   -moz-transition: all ease 0.5s;
   -o-transition: all ease 0.5s;
   -webkit-transition: all ease 0.5s;
-  transition: all ease 0.5s; }
-
-.post-thumbnail:hover img {
-  -webkit-filter: grayscale(30%);
-  filter: grayscale(30%); }
+  transition: all ease 0.5s; 
+  border-radius: 10px;  }
 
 .post-thumb {
   position: relative; }
@@ -2336,7 +2331,7 @@ span.type {
 
 /*==========Page Detail=========*/
 .detail-page {
-  margin: 50px 0px 0px 0px; }
+  margin: 10px 0px 0px 0px; }
   @media screen and (max-width: 991px) {
     .detail-page {
       margin: 20px 0px 0px 0px; } }
@@ -2353,14 +2348,14 @@ span.type {
     letter-spacing: 2px;
     text-align: center;
     margin: 0px;
-    padding: 10px 0px;
+    padding: 0px 0px;
     font-family: "Oswald", serif;
     color: #111;
     border-bottom: 3px solid #111;
     display: inline-block; }
     @media screen and (max-width: 767px) {
       .detail-title h1 {
-        font-size: 25px; } }
+        font-size: 30px; } }
 
 .detail-meta {
   text-align: center;
@@ -2420,24 +2415,9 @@ span.type {
   margin: 0px 0px 20px 0px; }
 
 .detail > p:first-child:first-letter {
-  font-size: 60px;
-  line-height: 40px;
-  font-weight: 500;
-  text-align: center;
-  width: 40px;
-  height: 40px;
-  font-weight: 900;
-  text-transform: uppercase;
-  float: left;
-  margin: 10px 10px 0px 5px;
-  color: #111;
-  display: block; }
-  @media screen and (max-width: 767px) {
-    .detail > p:first-child:first-letter {
-      font-size: 40px;
-      line-height: 30px;
-      width: 30px;
-      height: 30px; } }
+  font-size: 30px;
+  font-weight: bold;
+}
 
 .detail a {
   color: #ca2026; }
@@ -3840,3 +3820,4 @@ blockquote {
       text-align: center;
       color: #555;
       margin: -2px 0px 0px 0px; }
+
