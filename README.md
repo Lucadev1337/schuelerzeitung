@@ -6,7 +6,7 @@
 
 <h2>🚀 Check it out</h2>
 
-[www.schuelerzeitung.ge](https://schuelerzeitung.ge)
+<a href="https://schuelerzeitung.ge/" target="_blank">www.schuelerzeitung.ge</a>
 
 <h2>Project Screenshots:</h2>
 
