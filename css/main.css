@@ -2518,8 +2518,7 @@ blockquote {
       text-transform: uppercase;
       background-color: #fff; }
 
-.tags {
-  text-align: center; }
+
   .tags a {
     display: inline-block;
     line-height: 30px;
