@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Die Schülerzeitung • News aus der DIST!</title>
+    <meta name="keywords" content="Schuelerzeitung, Schülerzeitung, Schüler, Zeitung, DIST, Deutsche Internationale Schule, Deutsche Internationale Schule Tbilisi, Deutsche Internationale Schule Tbilissi, Deutsche Schule, artikel">
+    <meta name="description" content="Ein Offizieller Artikel der Schülerzeitung aus der DIST!">
+    <!-- Favicons -->
+    <link rel="shortcut icon" href="/images/logo1.png">
+    <!-- Online Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&amp;subset=cyrillic,cyrillic-ext,latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700" rel="stylesheet" />
+    <!-- Vender -->
+    <link href="/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="/css/swiper.min.css" rel="stylesheet" />
+    <!-- Main CSS (SCSS Compile) -->
+    <link href="/css/main.css" rel="stylesheet" />
+</head>
+<body>
+    
+
+
+    <!--preload-->
+    <div class="loader" id="page-loader">
+        <div class="loading-wrapper">
+            <p>Artikel wird geladen<span>.</span><span>.</span><span>.</span></p>
+        </div>
+    </div>
+    
+    
+    
+    <!--page-->
+    <div class="page">
+        
+        
+            <!--Middle logo-->
+            <div class="logo-show hidden-xs">
+                <a href="#" class="logo">
+                    <img alt="" src="/images/logo1.png" />
+                </a>
+            </div>
+
+            
+            <nav class="articlehidermobile menu-main menu-show">
+                <div class="menu-main-inner">
+                    <ul>
+                        <li class="menu-item">
+                            <a style="color:rgb(43, 190, 68);" href="#">Events<span></span></a>
+                        </li>
+                        <li class="menu-item">
+                            <a style="color:rgb(233, 134, 53); font-size:140%;" href="#">Schule</a>
+                        </li>
+                        <li class="menu-item">
+                            <a style="color:rgb(233, 58, 58); font-size:200%;" href="/"></i> Home </a>
+                        </li>
+                        <li class="menu-item">
+                            <a style="color:rgb(163, 23, 151); font-size:140%;" href="#">Sport<span></span></a>
+                        </li>
+                        <li class="menu-item">
+                            <a style="color:rgb(36, 143, 231);" href="#">Shop<span></span></a>
+                        </li>
+    
+                    </ul>
+                </div>
+            </nav>        
+        </header>
+        
+        <!--wrapper-->
+        
+        <div class="wrapper">
+            <div class="wrap">
+                <div class="menuhider hidden-lg hidden-md">
+                    <div class="menuhider hidden-lg hidden-md">
+                        <div class="sitemap">
+                            <div style="font-size: 150%; margin:10px;" class="sitemap-inner">
+                                <span style="font-size: 150%;">	&#9830;</span>
+                                <a style="color:rgb(233, 58, 58); font-size:130%" href="/">HOME</a>
+                                <span style="font-size: 150%;">	&#9830;</span>
+                            </div>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--hightlight news-->
+                <!--cols-->
+                <div class="detail-page">
+
+                    <div class="detail-title">
+                        <h1>Lerntipps</h1>
+                    </div>
+
+                    <div class="detail-meta">
+                        <div class="post-meta">
+                            <span class="post-date">
+                                NOV 27, 2023
+                            </span><em>/</em>
+                            <span class="post-category">
+                                <a href="#">Mariam Gafrindashvili</a>
+                            </span>
+                        </div>
+                        <div class="post-dot">
+                            <span>♦</span>
+                        </div>
+                        <div class="post-meta">
+                            <span class="post-category">
+                                <a href="#">Schule</a>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="cols">
+                        <!--colleft-->
+                        <div class="colleft">
+                            <div class="post-thumbnail">
+                                <img style="height:auto; width:auto" alt="" src="/images/lerntipps/lerntipps.jpg"/>
+                            </div>
+                            <article class="detail">
+                                    <p>Hast du manchmal das Gefühl, dass du überfordert bist und keine Motivation zum lernen hast? Oder weißt du nicht, wie oder wo du überhaupt anfangen sollst zu lernen? Neulich hatte ich genau dieses Problem und habe deshalb Hilfe von meinen zwei Mitschülerinnen geholt, die Streberinnen sind und einen perfektenNotendurchschnitt haben.</p>
+                                    <p>Es wurden mir ein paar Lernmethoden vorgeschlagen.<br>
+                                    Erstens ist es wichtig den Stoff in eigenen Worten aufzuschreiben und nicht nur vom Buch oder von den Arbeitsblättern zu lernen. Wenn man seine Notizen schön gestaltet, bekommt man keinen Herzinfarkt, wenn man das Material anschaut ❤️. Bei weniger Information, kann man auch Flashcards machen, was auf Goodnotes oder Quizlet möglich ist.
+                                    Dazu gibt es auch mehrere Lernmethoden, die das Lernen selbst erleichtern:</p>
+                                    <p>Die "Blurting" Methode ist eine der Bekanntesten. Sie erfolgt in drei Schritten:<br>
+                                    Erstmal liest man die Information die man lernen muss. Danach schreibt man alles, was man sich gemerkt hat, auf ein Blatt auf und am Ende vergleicht man es mit dem Material. Dieser Prozess wird solange wiederholt, bis man keine
+                                    Lücken oder Fehler hat.</p>
+                                    <p>Als Nächstes - Die „Feynman" Methode. Mit dieser Methode versucht man nicht den Stoff auswendig zu lernen, sondern es zu verstehen. Man erklärt es so, dass es auch ein Kind verstehen würde. So bekommt man ein viel besseres
+                                    Verständnis für das Thema.</p>
+                                    <p>„Active recall" stellt sich auch sehr effektiv raus. Unter active recall versteht man den freien und aktiven Abruf mehrmals am Tag. Man stellt sich selbst fragen und beantwortet sie, um sicherzustellen dass man alles weiß.</p>
+                                    <p>Am Tag der Klassenarbeit oder des Tests ist es immer sinnvoll alles mit seinen Freunden zu wiederholen. So stärkt man das eigene Wissen und hilft sich gegenseitig.<br>
+                                    Aber manchmal hat man einfach keine Zeit um zu lernen. Darum ist es wichtig, sich schnell auf kommende Klassenarbeiten und Tests vorzubereiten, um die Arbeit so schnell wie möglich zu erledigen.<br>
+                                    Dies geht aber leider nicht immer, weil man manchmal nicht die Motivation dafür hat. Dafür muss man sich kleine Ziele setzten und sie Schritt für Schritt umsetzen. z. B. indem man an einem Tag was erreicht, worauf man stolz sein kann und sich dann etwas Schönes gönnt.</p>
+                                    <p>Man muss aber immer im Kopf behalten, dass die Gesundheit vor dem lernen steht und man sich nicht viele Sorgen und Stress machen soll!! Manchmal ist es auch normal und okay durchzuatmen, denn schließlich ist es nur ein Test.</p>
+                                    <p>Auch ist es wichtig zu berücksichtigen, dass nicht jeder Mensch gleich ist und wenn diese Methoden nicht für dich funktionieren liegt es nicht an dir!!! Du brauchst nur deinen eigenen Rhythmus zu finden und so zu lernen wie es dir am besten passt 🙂</p>        
+
+                                <!--<h4>Instagram Post:</h4>
+                                <p><i class="fa fa-external-link"></i> <a style="font-weight:bold;" target="blank" href="#">instagram.com/lerntipps</a></p>-->
+                            </article>
+                            <!---->
+                            
+
+                            <div class="author-single">
+
+                                <div class="author-single-inner">
+                                    <img alt="" src="/images/avatar.jpg" />
+                                    <h3>Mariam Gafrindashvili</h3>
+                                    <p>Schüler der 10. Klasse</p>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </div>
+                            <div class="related-post">
+                                <div class="box-detail-caption">
+                                    <span>DAS KÖNNTE DICH AUCH INTERESSIEREN</span>
+                                </div>
+                                <div class="tags-three">
+                                    <div class="row">
+                                        <div class="col-md-4 col-sm-4 col-xs-12">
+                                            <div class="three-item">
+                                                <article href="/open-source.html" class="ciz-post">
+                                                    <div class="post-thumb">
+                                                        <a href="/open-source.html">
+                                                            <img alt="" src="/images/open-source/opensource.jpeg" />
+                                                        </a>
+                                                    </div>
+                                                    <h3 class="post-title">
+                                                        <a href="/open-source.html">Open-Source</a>
+                                                    </h3>
+                                                    <div class="post-meta">
+                                                        <span class="post-date">
+                                                            NOV 23, 2023
+                                                        </span>
+                                                        <em>/</em>
+                                                        <span class="post-category">
+                                                            <a href="#">Luca Mergell</a>
+                                                        </span>
+                                                        <em>/</em>
+                                                        <span class="post-category">
+                                                            <a href="#">Andere</a>
+                                                        </span>
+        
+                                                    </div>
+                                                    <div class="post-des">
+                                                        <a href="#">
+                                                        <p>Der code unserer website ist frei zugänglich. In diesem Artikel erfährst du, was "Open-Source" überhaupt bedeutet und warum sich... <a href="/open-source.html" style="color:red">Mehr lesen</a></p>
+                                                        </a>
+                                                    </div>
+                                                </article>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-4 col-xs-12">
+                                            <div class="three-item">
+                                                <article href="/artikel/un-planspiel.html" class="ciz-post">
+                                                    <div class="post-thumb">
+                                                        <a href="/artikel/un-planspiel.html">
+                                                            <img alt="" src="https://raw.githubusercontent.com/Lucadev1337/schuelerzeitung/main/images/un-planspiel/IMG_2509.jpg" />
+                                                        </a>
+                                                    </div>
+                                                    <h3 class="post-title">
+                                                        <a href="/artikel/un-planspiel.html">UN-Planspiel</a>
+                                                    </h3>
+                                                    <div class="post-meta">
+                                                        <span class="post-date">
+                                                            NOV 21, 2023
+                                                        </span>
+                                                        <em>/</em>
+                                                        <span class="post-category">
+                                                            <a href="#">Masha Zarandia</a>
+                                                        </span>
+                                                        <em>/</em>
+                                                        <span class="post-category">
+                                                            <a href="#">Schule</a>
+                                                        </span>
+        
+                                                    </div>
+                                                    <div class="post-des">
+                                                        <a href="#">
+                                                        <p>Unsere Schülerinnen und Schüler der Klassen 10, 11 und 12 haben sich einen Tag lang in einem UN-Planspiel mit dem Nahost-Konflikt beschäftigt... <a href="artikel/un-planspiel.html" style="color:red">Mehr lesen</a></p>
+                                                        </a>
+                                                    </div>
+                                                </article>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-4 col-xs-12">
+                                            <div class="three-item">
+                                                <article href="#" class="ciz-post">
+                                                    <div class="post-thumb">
+                                                        <a href="#">
+                                                            <img alt="" src="/images/s3.jpg" />
+                                                        </a>
+                                                    </div>
+                                                    <h3 class="post-title">
+                                                        <a href="#">Test-Artikel</a>
+                                                    </h3>
+                                                    <div class="post-meta">
+                                                        <span class="post-date">
+                                                            Datum
+                                                        </span>
+                                                        <em>/</em>
+                                                        <span class="post-category">
+                                                            <a href="#">Autor</a>
+                                                        </span>
+                                                        <em>/</em>
+                                                        <span class="post-category">
+                                                            <a href="#">Andere</a>
+                                                        </span>
+        
+                                                    </div>
+                                                    <div class="post-des">
+                                                        <a href="#">
+                                                        <p>Test-Text-Subtitle Test-Text-Subtitle Test-Text-Subtitle Test-Text-Subtitle Test-Text-Subtitle Test-Text-Subtitle... <a href="#" style="color:red">Mehr lesen</a></p>
+                                                        </a>
+                                                    </div>
+                                                </article>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                    <!--colright-->
+                    <div class="colright">
+                  
+                        <!--box trending-->
+                        <div class="col-caption">
+                            <span>BELIEBTE ARTIKEL</span>
+                        </div>
+                        <div class="box-trending">
+                            <article class="trending-item">
+                                <div class="post-thumb">
+                                    <a href="/artikel/un-planspiel.html">
+                                        <img alt="" src="/images/un-planspiel/IMG_2509.jpg">
+                                    </a>
+                                </div>
+                                <h3>
+                                    <a href="/artikel/un-planspiel.html">
+                                        UN-Planspiel
+                                    </a>
+                                </h3>
+                            </article>
+                            <ul class="list-trending">
+                                <li>
+                                    <div class="post-thumb">
+                                        <a href="/open-source.html">
+                                            <img alt="" src="/images/open-source/opensource.jpeg">
+                                        </a>
+                                    </div>
+                                    <h3 class="post-title"><a href="/open-source.html">Open Source</a> </h3>
+                                </li>
+                                <li>
+                                    <div class="post-thumb">
+                                        <a href="#">
+                                            <img alt="" src="/images/s3.jpg">
+                                        </a>
+                                    </div>
+                                    <h3 class="post-title"><a href="#">Test-Artikel</a> </h3>
+                                </li>
+                                <li>
+                                    <div class="post-thumb">
+                                        <a href="#">
+                                            <img alt="" src="/images/s3.jpg">
+                                        </a>
+                                    </div>
+                                    <h3 class="post-title"><a href="#">Test-Artikel</a> </h3>
+                                </li>
+                                <li>
+                                    <div class="post-thumb">
+                                        <a href="#">
+                                            <img alt="" src="/images/s3.jpg">
+                                        </a>
+                                    </div>
+                                    <h3 class="post-title"><a href="#">Test-Artikel</a> </h3>
+                                </li>
+
+                            </ul>
+                        </div>
+                       
+
+                        <!--box werbung-->
+                        <div class="col-caption">
+                            <span> Werbung</span>
+                        </div>
+                        <div class="box-ads box-no-margin">
+                            <img alt="" src="/images/ad.jpg" />
+                        </div>
+
+                        <!--box social-->
+                        <div class="col-caption">
+                            <span>SOZIALE NETZWERKE</span>
+                        </div>
+                        <div class="box-social">
+                            <div class="social-network">
+                                <div class="sn-row">
+                                    <div class="sn-col">
+                                        <a target="_blank" href="https://www.instagram.com/schuelerzeitung.ge/">
+                                        <div class="sn-item">
+                                            <div class="sn-icon">
+                                                <i class="fa fa-instagram"></i>
+                                            </div>
+                                            <p>70</p>
+                                            <span>FANS</span>
+                                        </div>
+                                    </a>
+                                    </div>
+                                    <div class="sn-col">
+                                        <div class="sn-item youtube">
+                                            <div class="sn-icon">
+                                                <i class="fa fa-youtube"></i>
+                                            </div>
+                                            <p>...</p>
+                                            <span>UNTERWEGS</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                </div>
+
+                <!--bottom-->
+                <div class="bottom">
+                    <div class="bottom-inner">
+                        <div class="bottom-col">
+                            <div class="col-caption">
+                                <span>AUTOREN</span>
+                            </div>
+                            <div class="list-tags">
+                                <p class="hidden"></p>
+                                <a href="#">MERGELL</a>
+                                <a href="#">ZARANDIA</a>
+                                <a href="#">GAFRINDASHVILI</a>
+                            </div>
+                        </div>
+                        <div class="bottom-col">
+                            <div class="col-caption">
+                                <span>TAGS / KATEGORIEN</span>
+                            </div>
+                            <div class="tags">
+                                <p class="hidden"></p>
+                                <a href="#">Events</a>
+                                <a href="#">Schule</a>
+                                <a href="#">Sport</a>
+                                <a href="#">Andere</a>
+                            </div>
+                        </div>
+                        <div class="bottom-col">
+                            <div class="col-caption">
+                                <span>INSTAGRAM POSTS</span>
+                            </div>
+                            <ul class="instagram-pics">
+                                <li>
+                                    <a target="_blank" href="https://www.instagram.com/p/CzhAwnsoJ58/">
+                                        <img src="/images/distbist.jpeg" alt="" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a target="_blank" href="https://www.instagram.com/p/Czg9iuKIxvw/">
+                                        <img src="/images/distbga.jpeg" alt="" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a target="_blank" href="https://www.instagram.com/p/C0G3eMvo3ZD/">
+                                        <img src="/images/un.png" alt="" />
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--footer-->
+        <footer class="footer">
+            <a href="#" class="logo">
+                <img alt="" src="/images/logo1.png" />
+            </a>
+            <div class="footer-bar">
+                <div class="allright">
+                    <p><a style="font-weight: bold;" href="mailto:luca.mergell@gmail.com">Kontaktieren sie uns per E-Mail: Klick</a></p>
+                    <p>WEBSITE MANAGER - LUCA MERGELL</p>
+                </div>
+                <div class="social-footer">
+                    <a href="https://www.instagram.com/schuelerzeitung.ge/" class="instagram">
+                        <i class="fa fa-instagram"></i>
+                    </a>
+                    <a href="mailto:luca.mergell@gmail.com" class="email">
+                        <i class="fa fa-envelope"></i>
+                    </a>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </footer>
+    </div>
+    <!--go to top-->
+    <span class="totop">
+        nach
+        <em>OBEN</em>
+    </span>
+    <!--script files-->
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/isotope.pkgd.min.js"></script>
+    <script src="/js/swiper.min.js"></script>
+    <script src="/js/jquery.matchHeight.js"></script>
+    <script src="/js/main.js"></script>
+</body>
+
+</html>
